@@ -44,6 +44,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+---
+
+## Thanks for visiting my page. I would be very grateful if you drop me a follow...
 ---
 
 ### 🔝 Top Contributed Repo
