@@ -49,10 +49,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=My-Mation&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/My-Mation/My-Mation/snake-preview/github-contribution-grid-snake.svg)
 
 
 
