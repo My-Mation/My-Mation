@@ -52,5 +52,6 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/My-Mation/My-Mation/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/My-Mation/My-Mation/output/github-contribution-grid-snake.svg)
+
 
