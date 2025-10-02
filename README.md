@@ -5,6 +5,13 @@
 
 ---
 
+## 🚀 Top Projects
+
+[![RepBot](https://img.shields.io/badge/RepBot-View-blue?logo=github)](https://github.com/My-Mation/RepBot)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?logo=github)](https://github.com/My-Mation/portfolio-hazel-beta-83)
+
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debargha-sarkar-72575937a/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debarghasarkar175@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://portfolio-hazel-beta-83.vercel.app/) [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/My_Mation/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/code_by_deb/)
 
@@ -37,6 +44,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=My-Mation&theme=gruvbox_light&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 🎖️ Badges & Achievements
+[![An image of @mymation's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mymation)](https://holopin.io/@mymation)
 
 ---
 
