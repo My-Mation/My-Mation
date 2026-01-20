@@ -21,7 +21,7 @@
   </svg>
 </div>
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1200&color=0FF7F7&center=false&vCenter=true&width=480&lines=Systems+Engineer+%7C+AI%2C+Backend%2C+Real-Time+%26+Game+Development" alt="Typing SVG: Systems Engineer | AI, Backend, Real-Time & Game Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1200&color=0FF7F7&center=false&vCenter=true&width=480&lines=System+Engineer+%7C+AI%2C+Backend%2C+Real+Time+%26+Game+Development" alt="Typing SVG: Systems Engineer | AI, Backend, Real-Time & Game Development" />
 </p>
 
 ---
@@ -33,102 +33,165 @@ I build systems for the real world—where constraints, failure modes, and inter
 ---
 
 ## Selected Systems & Products
-
-<div align="center">
+<div align="left">
 
 <!-- RepBot Card -->
-<table width="100%" style="margin-bottom: 16px;">
+<table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
-    <td width="60%" valign="top">
-      <b>RepBot — AI-Powered Fitness Automation (Android)</b><br>
-      Real-time pose estimation and rep counting on-device, with visual feedback and no cloud dependency.
+    <td>
+      <b style="font-size:18px;">RepBot — AI-Powered Fitness Automation (Android)</b><br>
+      Real-time on-device pose estimation and automatic rep counting using Google’s pose model,
+      providing visual feedback with zero manual input and no cloud dependency.
       <br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Computer%20Vision-005571?style=flat-square"/>
-      <img src="https://img.shields.io/badge/On--device%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Mobile%20Optimization-22272E?style=flat-square"/>
-      <br><br>
-      <a href="https://github.com/My-Mation/RepBot" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-      </a>
+      <b>Tech Stack:</b>
+      <ul style="margin-top:6px;margin-left:18px;">
+        <li>Flutter (Android)</li>
+        <li>Dart</li>
+        <li>On-device ML (Pose Estimation)</li>
+      </ul>
       <a href="https://play.google.com/store/apps/details?id=com.debargha.repbot" target="_blank">
-        <img src="https://img.shields.io/badge/Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
+        <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>
 
-<!-- Top-Down Shooter Card -->
-<table width="100%" style="margin-bottom: 16px;">
+<!-- Navidrome Card -->
+<table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
-    <td width="60%" valign="top">
-      <b>Top-Down Shooter (Live Chat Controlled Game)</b><br>
-      Game loop driven by YouTube Live Chat; real-time entity spawning and simulation from external input.
+    <td>
+      <b style="font-size:18px;">Navidrome — Self-Hosted Music Streaming Server</b><br>
+      Private, self-hosted music server with full control over the library, fast indexing,
+      and Subsonic-compatible clients for streaming without third-party tracking.
       <br><br>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Game%20Loops-22272E?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Real--Time%20Events-010101?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Live%20Chat-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+      <b>Tech Stack:</b>
+      <ul style="margin-top:6px;margin-left:18px;">
+        <li>Navidrome (Subsonic-compatible server)</li>
+        <li>Termux (Android host environment)</li>
+        <li>Ubuntu (Linux userspace)</li>
+        <li>Ultrasonic (Android Subsonic client)</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Self--Hosted-2EA44F?style=for-the-badge&logo=linux&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Top-Down Shooter Card -->
+<table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
+  <tr>
+    <td>
+      <b style="font-size:18px;">Top-Down Shooter — Live Chat Controlled</b><br>
+      Real-time battle royale where YouTube Live Chat spawns and controls entities
+      inside a procedurally generated arena.
       <br><br>
+      <b>Tech Stack:</b>
+      <ul style="margin-top:6px;margin-left:18px;">
+        <li>Unity</li>
+        <li>C#</li>
+        <li>YouTube Live Chat API</li>
+      </ul>
       <a href="https://github.com/My-Mation/LiveChatShooter" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>
 
 <!-- Multiplayer Quiz Card -->
-<table width="100%" style="margin-bottom: 16px;">
+<table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
-    <td width="60%" valign="top">
-      <b>Real-Time Multiplayer Quiz & Social Deduction</b><br>
-      Multiplayer rooms, live sync, and fault-tolerant state management for social deduction games.
+    <td>
+      <b style="font-size:18px;">Real-Time Multiplayer Quiz & Social Deduction</b><br>
+      Fault-tolerant multiplayer platform with live room synchronization
+      and authoritative state management.
       <br><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      <br><br>
+      <b>Tech Stack:</b>
+      <ul style="margin-top:6px;margin-left:18px;">
+        <li>Node.js</li>
+        <li>Socket.IO</li>
+        <li>MongoDB</li>
+        <li>Firebase</li>
+      </ul>
       <a href="https://github.com/My-Mation/RealtimeQuiz" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>
 
 <!-- Sarbanash Card -->
-<table width="100%" style="margin-bottom: 16px;">
+<table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
-    <td width="60%" valign="top">
-      <b>Sarbanash — Pixel-Art Survival Horror</b><br>
-      Event-driven survival, AI, and state machines for atmospheric gameplay.
+    <td>
+      <b style="font-size:18px;">Sarbanash — Pixel-Art Survival Horror</b><br>
+      A 2D survival horror game inspired by classic Pokémon-style exploration,
+      featuring a complete story, AI-driven events, and atmospheric gameplay.
       <br><br>
-      <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Game%20AI-22272E?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Event%20Systems-005571?style=flat-square"/>
-      <img src="https://img.shields.io/badge/State%20Management-22272E?style=flat-square"/>
-      <br><br>
-      <a href="https://github.com/My-Mation/Sarbanash" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+      <b>Tech Stack:</b>
+      <ul style="margin-top:6px;margin-left:18px;">
+        <li>Godot Engine</li>
+        <li>Game AI</li>
+        <li>Event Systems</li>
+        <li>State Machines</li>
+      </ul>
+      <a href="https://my-mation69.itch.io/sarbanashgame" target="_blank">
+        <img src="https://img.shields.io/badge/Play_on_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>
 
-<!-- Password API Card -->
-<table width="100%" style="margin-bottom: 16px;">
+<!-- Kisor Card -->
+<table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
-    <td width="60%" valign="top">
-      <b>Password Strength & Email Risk APIs</b><br>
-      Public APIs for password entropy, disposable email detection, and risk signals.
+    <td>
+      <b style="font-size:18px;">Kisor — Narrative Visual Novel</b><br>
+      Best experienced blind. A choice-driven psychological mystery about guiding
+      terminally ill students through their final year. Made by a teen afraid of adulthood.
       <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Backend%20APIs-005571?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Security%20Logic-22272E?style=flat-square"/>
-      <img src="https://img.shields.io/badge/RapidAPI-000000?style=flat-square&logo=rapidapi&logoColor=white"/>
+      <b>Features:</b>
+      <ul style="margin-top:6px;margin-left:18px;">
+        <li>Emotional choice-driven storytelling</li>
+        <li>Text-based narrative gameplay</li>
+        <li>Haunting mystery themes</li>
+      </ul>
+      <a href="https://my-mation69.itch.io/kisor" target="_blank">
+        <img src="https://img.shields.io/badge/Play_on_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- APIs Card -->
+<table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
+  <tr>
+    <td>
+      <b style="font-size:18px;">Public APIs — Security & Data</b><br>
+      Production-grade APIs focused on privacy, security, and deterministic data processing.
       <br><br>
-      <a href="https://github.com/My-Mation/PasswordRiskAPI" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+      <b>Available APIs:</b>
+      <ul style="margin-top:6px;margin-left:18px;">
+        <li>Password Risk Detection — privacy-preserving breach exposure & guessability analysis</li>
+        <li>Email Risk & Disposable Domain Detection — MX validation, typo and subdomain checks</li>
+        <li>CSV Data Cleaning & Normalization — deterministic, schema-safe pipeline</li>
+      </ul>
+      <a href="https://rapidapi.com/user/MyMation" target="_blank">
+        <img src="https://img.shields.io/badge/RapidAPI_Profile-005571?style=for-the-badge&logo=rapidapi&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Social Links -->
+<table width="100%" style="border:1px solid #30363d;border-radius:8px;padding:12px;">
+  <tr>
+    <td>
+      <b style="font-size:18px;">Socials & Platforms</b><br><br>
+      <a href="https://rapidapi.com/user/MyMation" target="_blank">
+        <img src="https://img.shields.io/badge/RapidAPI-005571?style=for-the-badge&logo=rapidapi&logoColor=white"/>
+      </a>
+      <a href="https://my-mation69.itch.io" target="_blank">
+        <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -136,6 +199,7 @@ I build systems for the real world—where constraints, failure modes, and inter
 
 </div>
 
+</div>
 ---
 
 ## Top Repositories
