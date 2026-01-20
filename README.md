@@ -34,18 +34,17 @@ I like building things that actually have to work in the real world. I’m curio
 ---
 
 ## Selected Systems & Products
-<div align="left">
 
-<!-- RepBot Card -->
+### RepBot — AI-Powered Fitness Automation (Android)
+
 <table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
     <td>
-      <b style="font-size:18px;">RepBot — AI-Powered Fitness Automation (Android)</b><br>
       Real-time on-device pose estimation and automatic rep counting using Google’s pose model,
       providing visual feedback with zero manual input and no cloud dependency.
       <br><br>
       <b>Tech Stack:</b>
-      <ul style="margin-top:6px;margin-left:18px;">
+      <ul>
         <li>Flutter (Android)</li>
         <li>Dart</li>
         <li>On-device ML (Pose Estimation)</li>
@@ -57,16 +56,18 @@ I like building things that actually have to work in the real world. I’m curio
   </tr>
 </table>
 
-<!-- FSociety Card -->
+---
+
+### FSociety — ESP32 Vibration Control System
+
 <table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
     <td>
-      <b style="font-size:18px;">FSociety — ESP32 Vibration Control System</b><br>
       An ESP32-based vibration machine project focused on low-level hardware control,
       sensor input handling, and real-time actuation for controlled vibration patterns.
       <br><br>
       <b>Tech Stack:</b>
-      <ul style="margin-top:6px;margin-left:18px;">
+      <ul>
         <li>ESP32 (Microcontroller)</li>
         <li>C / Arduino Framework</li>
         <li>Vibration Motor Control</li>
@@ -77,16 +78,18 @@ I like building things that actually have to work in the real world. I’m curio
   </tr>
 </table>
 
-<!-- Navidrome Card -->
+---
+
+### Navidrome — Self-Hosted Music Streaming Server
+
 <table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
     <td>
-      <b style="font-size:18px;">Navidrome — Self-Hosted Music Streaming Server</b><br>
       Private, self-hosted music server with full control over the library, fast indexing,
       and Subsonic-compatible clients for streaming without third-party tracking.
       <br><br>
       <b>Tech Stack:</b>
-      <ul style="margin-top:6px;margin-left:18px;">
+      <ul>
         <li>Navidrome (Subsonic-compatible server)</li>
         <li>Termux (Android host environment)</li>
         <li>Ubuntu (Linux userspace)</li>
@@ -97,16 +100,18 @@ I like building things that actually have to work in the real world. I’m curio
   </tr>
 </table>
 
-<!-- Top-Down Shooter Card -->
+---
+
+### Top-Down Shooter — Live Chat Controlled
+
 <table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
     <td>
-      <b style="font-size:18px;">Top-Down Shooter — Live Chat Controlled</b><br>
       Real-time battle royale where YouTube Live Chat spawns and controls entities
       inside a procedurally generated arena.
       <br><br>
       <b>Tech Stack:</b>
-      <ul style="margin-top:6px;margin-left:18px;">
+      <ul>
         <li>Unity</li>
         <li>C#</li>
         <li>YouTube Live Chat API</li>
@@ -118,16 +123,18 @@ I like building things that actually have to work in the real world. I’m curio
   </tr>
 </table>
 
-<!-- Multiplayer Quiz Card -->
+---
+
+### Real-Time Multiplayer Quiz & Social Deduction
+
 <table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
     <td>
-      <b style="font-size:18px;">Real-Time Multiplayer Quiz & Social Deduction</b><br>
       Fault-tolerant multiplayer platform with live room synchronization
       and authoritative state management.
       <br><br>
       <b>Tech Stack:</b>
-      <ul style="margin-top:6px;margin-left:18px;">
+      <ul>
         <li>Node.js</li>
         <li>Socket.IO</li>
         <li>MongoDB</li>
@@ -140,20 +147,21 @@ I like building things that actually have to work in the real world. I’m curio
   </tr>
 </table>
 
-<!-- Sarbanash Card -->
+---
+
+### Sarbanash — Pixel-Art Survival Horror
+
 <table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
     <td>
-      <b style="font-size:18px;">Sarbanash — Pixel-Art Survival Horror</b><br>
       A 2D survival horror game inspired by classic Pokémon-style exploration,
-      featuring a complete story, AI-driven events, and atmospheric gameplay.
+      featuring a complete story and atmospheric gameplay.
       <br><br>
       <b>Tech Stack:</b>
-      <ul style="margin-top:6px;margin-left:18px;">
+      <ul>
         <li>Godot Engine</li>
-        <li>Game AI</li>
-        <li>Event Systems</li>
         <li>State Machines</li>
+        <li>Event-Driven Gameplay</li>
       </ul>
       <a href="https://my-mation69.itch.io/sarbanashgame" target="_blank">
         <img src="https://img.shields.io/badge/Play_on_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
@@ -162,19 +170,21 @@ I like building things that actually have to work in the real world. I’m curio
   </tr>
 </table>
 
-<!-- Kisor Card -->
+---
+
+### Kisor — Narrative Visual Novel
+
 <table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
     <td>
-      <b style="font-size:18px;">Kisor — Narrative Visual Novel</b><br>
       Best experienced blind. A choice-driven psychological mystery about guiding
-      terminally ill students through their final year. Made by a teen afraid of adulthood.
+      terminally ill students through their final year.
       <br><br>
       <b>Features:</b>
-      <ul style="margin-top:6px;margin-left:18px;">
-        <li>Emotional choice-driven storytelling</li>
-        <li>Text-based narrative gameplay</li>
-        <li>Haunting mystery themes</li>
+      <ul>
+        <li>Choice-driven narrative</li>
+        <li>Text-based gameplay</li>
+        <li>Psychological mystery themes</li>
       </ul>
       <a href="https://my-mation69.itch.io/kisor" target="_blank">
         <img src="https://img.shields.io/badge/Play_on_itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
@@ -183,16 +193,18 @@ I like building things that actually have to work in the real world. I’m curio
   </tr>
 </table>
 
-<!-- APIs Card -->
+---
+
+### Public APIs — Security & Data
+
 <table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
     <td>
-      <b style="font-size:18px;">Public APIs — Security & Data</b><br>
       Production-grade APIs focused on privacy, security, and deterministic data processing.
       <br><br>
       <b>Available APIs:</b>
-      <ul style="margin-top:6px;margin-left:18px;">
-        <li>Password Risk Detection — privacy-preserving breach exposure & guessability analysis</li>
+      <ul>
+        <li>Password Risk Detection — privacy-preserving breach exposure and guessability analysis</li>
         <li>Email Risk & Disposable Domain Detection — MX validation, typo and subdomain checks</li>
         <li>CSV Data Cleaning & Normalization — deterministic, schema-safe pipeline</li>
       </ul>
@@ -207,7 +219,9 @@ I like building things that actually have to work in the real world. I’m curio
 <table width="100%" style="border:1px solid #30363d;border-radius:8px;padding:12px;">
   <tr>
     <td>
-      <b style="font-size:18px;">Socials & Platforms</b><br><br>
+      <div style="font-size:20px;font-weight:700;color:#0FF7F7;margin-bottom:6px;">
+        Socials & Platforms
+      </div>
       <a href="https://rapidapi.com/user/MyMation" target="_blank">
         <img src="https://img.shields.io/badge/RapidAPI-005571?style=for-the-badge&logo=rapidapi&logoColor=white"/>
       </a>
@@ -225,15 +239,23 @@ I like building things that actually have to work in the real world. I’m curio
 
 ## Top Repositories
 
-<b>FSociety</b> — Cyber-themed frontend exploration  
-A focused web project experimenting with hacker-style aesthetics, layout, and visual identity using HTML and CSS.  
-<a href="https://github.com/My-Mation/FSociety" target="_blank">GitHub</a>
+### 🔹 FSociety
+Cyber-themed frontend + embedded experimentation.  
+ESP32 vibration control + low-level hardware interaction.
+
+<a href="https://github.com/My-Mation/FSociety">
+  <img src="https://img.shields.io/github/stars/My-Mation/FSociety?style=flat-square&label=Stars"/>
+</a>
 
 <br><br>
 
-<b>SpotiRip</b> — Self-hosted music streaming on Android  
-Turns an Android device into a private music server using Termux, Ubuntu (proot), and Navidrome, prioritizing control, privacy, and self-hosting.  
-<a href="https://github.com/My-Mation/Spotirip" target="_blank">GitHub</a>
+### 🔹 SpotiRip
+Self-hosted music streaming on Android using Termux, Ubuntu (proot), and Navidrome.  
+Built for control, privacy, and zero cloud dependency.
+
+<a href="https://github.com/My-Mation/Spotirip">
+  <img src="https://img.shields.io/github/stars/My-Mation/Spotirip?style=flat-square&label=Stars"/>
+</a>
 
 ---
 
@@ -272,7 +294,6 @@ Turns an Android device into a private music server using Termux, Ubuntu (proot)
     <td><b>Real-Time Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Realtime-22272E?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
@@ -280,8 +301,6 @@ Turns an Android device into a private music server using Termux, Ubuntu (proot)
     <td>
       <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Game%20AI-22272E?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Event%20Systems-005571?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
@@ -320,12 +339,13 @@ Turns an Android device into a private music server using Termux, Ubuntu (proot)
 
 ---
 
-## Consistency & Output
+## Achievements & Milestones
 
-These trophies reflect sustained output and technical consistency across multiple domains.
+• Built and shipped a production Android app (RepBot) using on-device ML for real-time pose estimation and rep counting  
+• Designed and deployed multiple privacy-focused APIs used via RapidAPI (password risk, email risk, CSV normalization)  
+• Built real-time multiplayer and live-chat–driven game systems with authoritative state handling  
+• Implemented an ESP32-based embedded system with direct sensor input and actuator control  
+• Deployed a full self-hosted music streaming stack on Android using Termux, Ubuntu (proot), and Navidrome  
+• Maintained consistent long-term output across mobile, backend, real-time, embedded, and game systems
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=My-Mation&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-
+Thank you for reading till the end. I'd appreciate it grately if you may drop me a follow.
