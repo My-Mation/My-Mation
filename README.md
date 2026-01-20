@@ -17,18 +17,19 @@
 <!-- HEADER -->
 <div align="left">
   <svg width="420" height="60">
-    <text x="0" y="45" font-size="2.5em" font-family="Fira Mono, monospace" fill="#0FF7F7" font-weight="bold">Debargha Sarkar</text>
+    <text x="0" y="45" font-size="3em" font-family="Fira Mono, monospace" fill="#0FF7F7" font-weight="bold">Debargha Sarkar</text>
   </svg>
 </div>
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1200&color=0FF7F7&center=false&vCenter=true&width=480&lines=System+Engineer+%7C+AI%2C+Backend%2C+Real+Time+%26+Game+Development" alt="Typing SVG: Systems Engineer | AI, Backend, Real-Time & Game Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=22&pause=1200&color=0FF7F7&center=false&vCenter=true&width=480&lines=Trying+to+be+better" alt="Typing SVG: Trying to be better" />
+
 </p>
 
 ---
 
 ## About
 
-I build systems for the real world—where constraints, failure modes, and internals matter. My work is defined by a need for control: understanding how components interact, how they break, and how to recover. I design for observability, resilience, and performance under load. My approach is to expose the seams, test the edges, and own the consequences. If a system can fail, I want to know how, and I want to see it recover.
+I like building things that actually have to work in the real world. I’m curious about how systems behave under pressure, where they break, and what it takes to make them reliable again. I care about understanding the moving parts, not just making something that looks finished. When I build, I think about how people will depend on it, how it might fail, and how I can design it to recover. For me, good systems come from patience, responsibility, and learning from what goes wrong.
 
 ---
 
@@ -52,6 +53,26 @@ I build systems for the real world—where constraints, failure modes, and inter
       <a href="https://play.google.com/store/apps/details?id=com.debargha.repbot" target="_blank">
         <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
       </a>
+    </td>
+  </tr>
+</table>
+
+<!-- FSociety Card -->
+<table width="100%" style="margin-bottom:16px;border:1px solid #30363d;border-radius:8px;padding:12px;">
+  <tr>
+    <td>
+      <b style="font-size:18px;">FSociety — ESP32 Vibration Control System</b><br>
+      An ESP32-based vibration machine project focused on low-level hardware control,
+      sensor input handling, and real-time actuation for controlled vibration patterns.
+      <br><br>
+      <b>Tech Stack:</b>
+      <ul style="margin-top:6px;margin-left:18px;">
+        <li>ESP32 (Microcontroller)</li>
+        <li>C / Arduino Framework</li>
+        <li>Vibration Motor Control</li>
+        <li>Sensor Input & GPIO Handling</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Embedded%20Systems-0A66C2?style=for-the-badge&logo=arduino&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -204,50 +225,15 @@ I build systems for the real world—where constraints, failure modes, and inter
 
 ## Top Repositories
 
-<table>
-  <tr>
-    <td>
-      <b><a href="https://github.com/My-Mation/RepBot">RepBot</a></b><br>
-      On-device AI fitness automation for Android.<br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/On--device%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-    </td>
-    <td>
-      <b><a href="https://github.com/My-Mation/LiveChatShooter">LiveChatShooter</a></b><br>
-      Real-time game loop controlled by YouTube Live Chat.<br>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Real--Time-010101?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/My-Mation/RealtimeQuiz">RealtimeQuiz</a></b><br>
-      Multiplayer quiz and social deduction with live sync.<br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-    </td>
-    <td>
-      <b><a href="https://github.com/My-Mation/Sarbanash">Sarbanash</a></b><br>
-      Pixel-art survival horror with event-driven AI.<br>
-      <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Game%20AI-22272E?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://github.com/My-Mation/PasswordRiskAPI">PasswordRiskAPI</a></b><br>
-      Security APIs for password and email risk analysis.<br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Security-22272E?style=flat-square"/>
-    </td>
-    <td>
-      <b><a href=\"https://github.com/My-Mation/Portfolio\">Portfolio</a></b><br>
-      Personal portfolio site (Vercel, Next.js).<br>
-      <img src=\"https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white\"/>
-      <img src=\"https://img.shields.io/badge/Vercel-22272E?style=flat-square&logo=vercel&logoColor=white\"/>
-    </td>
-  </tr>
-</table>
+<b>FSociety</b> — Cyber-themed frontend exploration  
+A focused web project experimenting with hacker-style aesthetics, layout, and visual identity using HTML and CSS.  
+<a href="https://github.com/My-Mation/FSociety" target="_blank">GitHub</a>
+
+<br><br>
+
+<b>SpotiRip</b> — Self-hosted music streaming on Android  
+Turns an Android device into a private music server using Termux, Ubuntu (proot), and Navidrome, prioritizing control, privacy, and self-hosting.  
+<a href="https://github.com/My-Mation/Spotirip" target="_blank">GitHub</a>
 
 ---
 
