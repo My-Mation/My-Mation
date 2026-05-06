@@ -295,6 +295,12 @@ Contributions focused on backend APIs, real-time infrastructure, game engine too
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=My-Mation&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=0FF7F7&icon_color=0FF7F7&text_color=FFFFFF" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My-Mation&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=0FF7F7&text_color=FFFFFF" height="165"/>
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=My-Mation&theme=github-dark&hide_border=true&mode=weekly&card_width=500" height="160"/>
 
 <br/><br/>
